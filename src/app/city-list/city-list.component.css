@@ -1,0 +1,13 @@
+.watherCardBackground{
+    background-color: #f2f2f2;
+    box-shadow: 1px 1px 3px #888787;
+    padding: 15px 15px 0px 15px;
+    border-radius: 5px;
+    margin: 10px 0px;
+}
+
+.watherIconStyle{
+    font-size: 42px;
+    margin-top: 8px;
+    color: #1800ff;
+}
